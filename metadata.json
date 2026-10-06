@@ -1,0 +1,8 @@
+{
+  "name": "Multi-Agent Research Assistant",
+  "description": "An AI-powered multi-agent research system that automates web and arXiv paper retrieval, summarization, fact-checking, and report generation.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
